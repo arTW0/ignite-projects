@@ -11,7 +11,7 @@ const posts = [
     author: {
       avatarUrl: 'https://avatars.githubusercontent.com/u/52045799?v=4',
       name: 'Arthur Neves',
-      role: 'Aluno @Rocketseat'
+      role: 'Aluno @arthurneves'
     },
     content: [
       { type: 'paragraph', content: 'Olá! Meu nome é Arthur!' },
@@ -23,16 +23,16 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://avatars.githubusercontent.com/u/52045799?v=4',
+      avatarUrl: 'https://images.unsplash.com/photo-1664575603992-0f17b771dd91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80',
       name: 'Jade Neves',
-      role: 'Aluno @Rocketseat'
+      role: 'Aluno @jadeneves'
     },
     content: [
-      { type: 'paragraph', content: 'Olá! Meu nome é Arthur!' },
-      { type: 'paragraph', content: 'Sou bacharel em Engenharia da Computação pela Universidade Federal do Pará.' },
+      { type: 'paragraph', content: 'Meu nome é Jade!' },
+      { type: 'paragraph', content: 'Acabei de ingressar na carreira dev!!!' },
       { type: 'link', content: '#PrimeiraPublicação' },
     ],
-    publishedAt: new Date('2022-05-11 08:36:00'),
+    publishedAt: new Date('2022-04-22 10:44:00'),
   }
 ]
 

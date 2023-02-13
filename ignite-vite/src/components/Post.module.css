@@ -4,7 +4,7 @@
   padding: 2.5rem;
 }
 
-.post + .post {
+.post {
   margin-top: 2rem;
 }
 
@@ -49,6 +49,7 @@
 
 .author img {
   box-sizing: initial;
+  object-fit: cover;
   width: 3rem;
   height: 3rem;
   border-radius: 8px;

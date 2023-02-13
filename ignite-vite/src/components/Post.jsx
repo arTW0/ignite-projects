@@ -7,7 +7,7 @@ import styles from './Post.module.css'
 
 export const Post = ({ author, publishedAt, content }) => {
   const [comments, setComments] = useState([
-    'Post muito bacana, hein?!'
+    'Seja bem-vindo!'
   ])
 
   const [newCommentText, setNewCommentText] = useState('')
